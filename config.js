@@ -33,31 +33,32 @@ global.APIKeys = {
 
 global.alivemsg =`ʜᴇʏ ɪ'ᴍ ᴀʟɪᴠᴇ ɴᴏᴡ
 
-
-
-
-
 ➫.alive (Bot is Online/Bot is work now)
-
 ➬.menu  (All Command)
+                      RUKSHAN MD📌 `
+
+
+
+
+
 
 
 
                                        
 
-ᴊᴏɪɴ ᴍʏ ᴏꜰꜰɪᴄɪᴀʟ ʙᴏᴛ ɢʀᴏᴜᴘ. ⤵
-
-❗ ˢᴴᴬᴿᴱ ᴸᴵᴺᴷ ➲ ```https://chat.whatsapp.com/IedgOwAkWXcDbZ9J1l4SCY```
 
 
 
-❗ ˢᴴᴬᴿᴱ ᴸᴵᴺᴷ ➲ ```https://chat.whatsapp.com/IedgOwAkWXcDbZ9J1l4SCY```
+
+
+
+
 
 
 
 
                     
-		   RUKSHAN MD📌 `
+		
                      
 
 
