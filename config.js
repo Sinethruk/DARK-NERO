@@ -33,29 +33,29 @@ global.APIKeys = {
 
 global.alivemsg =`ʜᴇʏ ɪ'ᴍ ᴀʟɪᴠᴇ ɴᴏᴡ
 
-➫.song (yt link paste / type heare)
 
-➬.video(yt link paste / type heare)
+
+
 
 ➫.alive (Bot is Online/Bot is work now)
 
 ➬.menu  (All Command)
 
-➫.img (image name)
 
-                                                      
+
+                                       
 
 ᴊᴏɪɴ ᴍʏ ᴏꜰꜰɪᴄɪᴀʟ ʙᴏᴛ ɢʀᴏᴜᴘ. ⤵
 
 ❗ ˢᴴᴬᴿᴱ ᴸᴵᴺᴷ ➲ ```https://chat.whatsapp.com/IedgOwAkWXcDbZ9J1l4SCY```
 
-❗ ˢᴴᴬᴿᴱ ᴸᴵᴺᴷ ➲ ```https://chat.whatsapp.com/IedgOwAkWXcDbZ9J1l4SCY```
+
 
 ❗ ˢᴴᴬᴿᴱ ᴸᴵᴺᴷ ➲ ```https://chat.whatsapp.com/IedgOwAkWXcDbZ9J1l4SCY```
 
-❗ ˢᴴᴬᴿᴱ ᴸᴵᴺᴷ ➲ ```https://chat.whatsapp.com/IedgOwAkWXcDbZ9J1l4SCY```
 
- ❗ ˢᴴᴬᴿᴱ ᴸᴵᴺᴷ ➲ ```https://chat.whatsapp.com/IedgOwAkWXcDbZ9J1l4SCY```
+
+
                     
 		   RUKSHAN MD📌 `
                      
