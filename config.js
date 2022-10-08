@@ -35,7 +35,7 @@ global.alivemsg =`ʜᴇʏ ɪ'ᴍ ᴀʟɪᴠᴇ ɴᴏᴡ
 
 ➫.alive (Bot is Online/Bot is work now)
 ➬.menu  (All Command)
-                      RUKSHAN MD📌 `
+                  яυκѕнαи м∂ `
 
 
 
